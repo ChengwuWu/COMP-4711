@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Here we are!';
+        echo 'ChengwuWu A01159991';
         ?>
     </body>
 </html>
